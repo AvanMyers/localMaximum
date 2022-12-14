@@ -1,0 +1,8 @@
+D:\C# Project\LocalMax\LocalMax\bin\Debug\LocalMax.exe.config
+D:\C# Project\LocalMax\LocalMax\bin\Debug\LocalMax.exe
+D:\C# Project\LocalMax\LocalMax\bin\Debug\LocalMax.pdb
+D:\C# Project\LocalMax\LocalMax\obj\Debug\LocalMax.csproj.AssemblyReference.cache
+D:\C# Project\LocalMax\LocalMax\obj\Debug\LocalMax.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\LocalMax\LocalMax\obj\Debug\LocalMax.csproj.CoreCompileInputs.cache
+D:\C# Project\LocalMax\LocalMax\obj\Debug\LocalMax.exe
+D:\C# Project\LocalMax\LocalMax\obj\Debug\LocalMax.pdb
